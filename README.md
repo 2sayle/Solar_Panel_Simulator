@@ -21,7 +21,7 @@ https://github.com/2sayle/Solar_Panel_Simulator.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd solar-panel-simulator
+cd Solar_Panel_Simulator
 ```
 3. Install the required packages:
 ```bash
