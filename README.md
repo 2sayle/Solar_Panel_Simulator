@@ -1,6 +1,5 @@
 # Solar Panel Simulator
 
-## Description
 This project is a Solar Panel Simulator that calculates and visualizes the irradiance and power production of a solar panel throughout the year. It takes into account factors such as panel characteristics, geographical location, and time of day to provide accurate simulations.
 
 ## Features
@@ -18,11 +17,11 @@ This project is a Solar Panel Simulator that calculates and visualizes the irrad
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/2sayle/solar-panel-simulator.git
+https://github.com/2sayle/Solar_Panel_Simulator.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd solar-panel-simulator
+cd Solar_Panel_Simulator
 ```
 3. Install the required packages:
 ```bash
