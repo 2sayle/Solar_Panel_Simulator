@@ -1,2 +1,2 @@
-# Solar_Panel_Simulator
+# Solar Panel Simulator
 Python program to simulate parameters of a solar panel
