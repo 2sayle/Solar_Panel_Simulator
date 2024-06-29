@@ -12,8 +12,8 @@ import numpy as np
 mySolarPanel = SolarPanel(area=2, efficiency=20, tilt=30, orientation=0)
 
 # Set constant parameters
-hour = 15  # 3 PM each day
-latitude = 48.85  # Paris, for example
+hour = 15           # 3 PM each day
+latitude = 48.85    # Paris, for example
 
 # Prepare lists to store data
 days = list(range(1, 366))
