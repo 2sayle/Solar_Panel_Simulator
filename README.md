@@ -17,7 +17,7 @@ This project is a Solar Panel Simulator that calculates and visualizes the irrad
 ## Installation
 1. Clone this repository:
 ```bash
-[git clone https://github.com/2sayle/solar-panel-simulator.git](https://github.com/2sayle/Solar_Panel_Simulator.git)
+https://github.com/2sayle/Solar_Panel_Simulator.git
 ```
 2. Navigate to the project directory:
 ```bash
