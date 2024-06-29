@@ -1,6 +1,5 @@
 # Solar Panel Simulator
 
-## Description
 This project is a Solar Panel Simulator that calculates and visualizes the irradiance and power production of a solar panel throughout the year. It takes into account factors such as panel characteristics, geographical location, and time of day to provide accurate simulations.
 
 ## Features
